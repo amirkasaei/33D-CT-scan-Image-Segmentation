@@ -1,1 +1,1 @@
-# 33D-CT-scan-Image-Segmentation
+# 3D-CT-scan-Image-Segmentation
